@@ -1,7 +1,7 @@
 # Arth-Team-Task-8
 Create a Menu Using Python integrating all the concepts that have been taught by Vimal sir till now. 
 
-After 2 months of continuous training for the ARTH - The School of Technologies Program mentored by Vimal Daga, our team, Lakshya Gupta & Risabh Jain have successfully completed the given task.
+After 2 months of continuous training for the ARTH - The School of Technologies Program mentored by Vimal Daga, our team, <b>Lakshya Gupta & Risabh Jain</b> have successfully completed the given task.
 
 The task was about developing an Automated Menu Using Python (TUI Interface) integrating all the concepts that have been taught, some of the prominent features are highlighted below:
 
